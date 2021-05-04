@@ -1,0 +1,9 @@
+2021-04-08 10:28:16 prova.LoginAltServlet doPost 43 28 - Database connected
+2021-04-08 10:31:08 prova.LoginAltServlet doPost 43 21 - Database connected
+2021-04-08 10:31:34 prova.LoginAltServlet doPost 43 27 - Database connected
+2021-04-08 10:32:43 prova.LoginAltServlet doPost 43 50 - Database connected
+2021-04-08 10:38:39 prova.LoginAltServlet doPost 43 60 - Database connected
+2021-04-08 10:38:39 prova.LoginAltServlet doPost 44 60 - Database connected
+2021-04-08 10:39:33 prova.LoginAltServlet doPost 43 61 - Database connected
+2021-04-08 10:39:33 prova.LoginAltServlet doPost 44 61 - Database connected
+2021-04-13 12:48:13 prova.LoginAltServlet doPost 43 - Database connected
